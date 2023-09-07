@@ -1,0 +1,189 @@
+
+Orders Report--------------------------------------------------------------------
+20 Orders were opened, 
+20 of them were closed.
+
+Sell Order:
+   Open time: 2023-02-01 13:00:00
+   Close time: 2023-02-01 20:00:00
+   Price: 1.2319
+   TP: 1.2269
+   SL: 1.2349
+   Profit: -0.0024
+   Success: False
+   Open: False
+Buy Order:
+   Open time: 2023-02-02 13:00:00
+   Close time: 2023-02-02 14:26:29
+   Price: 1.2373
+   TP: 1.2423
+   SL: 1.2343
+   Profit: -0.003
+   Success: False
+   Open: False
+Buy Order:
+   Open time: 2023-02-03 13:00:00
+   Close time: 2023-02-03 14:58:38
+   Price: 1.2198
+   TP: 1.2248
+   SL: 1.2168
+   Profit: 0.005
+   Success: True
+   Open: False
+Buy Order:
+   Open time: 2023-02-06 13:00:00
+   Close time: 2023-02-06 15:48:38
+   Price: 1.2053
+   TP: 1.2103
+   SL: 1.2023
+   Profit: -0.003
+   Success: False
+   Open: False
+Buy Order:
+   Open time: 2023-02-07 13:00:00
+   Close time: 2023-02-07 13:08:12
+   Price: 1.2023
+   TP: 1.2073
+   SL: 1.1993
+   Profit: -0.003
+   Success: False
+   Open: False
+Sell Order:
+   Open time: 2023-02-08 13:00:00
+   Close time: 2023-02-08 20:00:00
+   Price: 1.2099
+   TP: 1.2049
+   SL: 1.2129
+   Profit: 0.003
+   Success: True
+   Open: False
+Sell Order:
+   Open time: 2023-02-09 13:00:00
+   Close time: 2023-02-09 13:22:56
+   Price: 1.2094
+   TP: 1.2044
+   SL: 1.2124
+   Profit: -0.003
+   Success: False
+   Open: False
+Sell Order:
+   Open time: 2023-02-10 13:00:00
+   Close time: 2023-02-10 20:00:00
+   Price: 1.212
+   TP: 1.207
+   SL: 1.215
+   Profit: 0.0008
+   Success: True
+   Open: False
+Sell Order:
+   Open time: 2023-02-13 13:00:00
+   Close time: 2023-02-13 17:20:31
+   Price: 1.2063
+   TP: 1.2013
+   SL: 1.2093
+   Profit: -0.003
+   Success: False
+   Open: False
+Buy Order:
+   Open time: 2023-02-14 13:00:00
+   Close time: 2023-02-14 15:00:13
+   Price: 1.2139
+   TP: 1.2189
+   SL: 1.2109
+   Profit: 0.005
+   Success: True
+   Open: False
+Buy Order:
+   Open time: 2023-02-15 13:00:00
+   Close time: 2023-02-15 17:40:05
+   Price: 1.2083
+   TP: 1.2133
+   SL: 1.2053
+   Profit: -0.003
+   Success: False
+   Open: False
+Buy Order:
+   Open time: 2023-02-16 13:00:00
+   Close time: 2023-02-16 18:30:03
+   Price: 1.2046
+   TP: 1.2096
+   SL: 1.2016
+   Profit: -0.003
+   Success: False
+   Open: False
+Buy Order:
+   Open time: 2023-02-17 13:00:00
+   Close time: 2023-02-17 19:12:18
+   Price: 1.1938
+   TP: 1.1988
+   SL: 1.1908
+   Profit: 0.005
+   Success: True
+   Open: False
+Sell Order:
+   Open time: 2023-02-20 13:00:00
+   Close time: 2023-02-20 20:00:00
+   Price: 1.2052
+   TP: 1.2002
+   SL: 1.2082
+   Profit: 0.0012
+   Success: True
+   Open: False
+Buy Order:
+   Open time: 2023-02-21 13:00:00
+   Close time: 2023-02-21 14:33:43
+   Price: 1.2015
+   TP: 1.2065
+   SL: 1.1985
+   Profit: 0.005
+   Success: True
+   Open: False
+Sell Order:
+   Open time: 2023-02-22 13:00:00
+   Close time: 2023-02-22 15:23:08
+   Price: 1.2114
+   TP: 1.2064
+   SL: 1.2144
+   Profit: 0.005
+   Success: True
+   Open: False
+Buy Order:
+   Open time: 2023-02-23 13:00:00
+   Close time: 2023-02-23 14:18:26
+   Price: 1.206
+   TP: 1.211
+   SL: 1.203
+   Profit: -0.003
+   Success: False
+   Open: False
+Sell Order:
+   Open time: 2023-02-24 13:00:00
+   Close time: 2023-02-24 17:10:56
+   Price: 1.2027
+   TP: 1.1977
+   SL: 1.2057
+   Profit: 0.005
+   Success: True
+   Open: False
+Sell Order:
+   Open time: 2023-02-27 13:00:00
+   Close time: 2023-02-27 16:18:59
+   Price: 1.1955
+   TP: 1.1905
+   SL: 1.1985
+   Profit: -0.003
+   Success: False
+   Open: False
+Buy Order:
+   Open time: 2023-02-28 13:00:00
+   Close time: 2023-02-28 13:55:43
+   Price: 1.2036
+   TP: 1.2086
+   SL: 1.2006
+   Profit: 0.005
+   Success: True
+   Open: False
+
+Success: %50.0
+Profit: 106 pip
+Total execution time: 121 Sec.
