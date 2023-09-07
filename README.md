@@ -26,6 +26,6 @@ BackTest Info charts:
 
 <img src="pics/14.JPG" width=40% height=auto> <img src="pics/13.JPG" width=40% height=auto>
 
-Predictions:
+Future Comparison:
 
 <img src="pics/15.JPG" width=70% height=auto>
