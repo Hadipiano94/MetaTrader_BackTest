@@ -34,7 +34,7 @@ Future Comparison:
 in addition, it gives backtest report like this:
 
 
-Orders Report--------------------------------------------------------------------
+"Orders Report--------------------------------------------------------------------
 20 Orders were opened, 
 20 of them were closed.
 
@@ -76,4 +76,4 @@ Buy Order:
 
 Success: %50.0
 Profit: 106 pip
-Total execution time: 121 Sec.
+Total execution time: 121 Sec."
