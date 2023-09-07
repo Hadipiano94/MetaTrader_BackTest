@@ -29,3 +29,51 @@ BackTest Info charts:
 Future Comparison:
 
 <img src="pics/15.JPG" width=70% height=auto>
+
+
+in addition, it gives backtest report like this:
+
+
+Orders Report--------------------------------------------------------------------
+20 Orders were opened, 
+20 of them were closed.
+
+Sell Order:
+   Open time: 2023-02-01 13:00:00
+   Close time: 2023-02-01 20:00:00
+   Price: 1.2319
+   TP: 1.2269
+   SL: 1.2349
+   Profit: -0.0024
+   Success: False
+   Open: False
+Buy Order:
+   Open time: 2023-02-02 13:00:00
+   Close time: 2023-02-02 14:26:29
+   Price: 1.2373
+   TP: 1.2423
+   SL: 1.2343
+   Profit: -0.003
+   Success: False
+   Open: False
+
+.
+.
+.
+.
+.
+
+
+Buy Order:
+   Open time: 2023-02-28 13:00:00
+   Close time: 2023-02-28 13:55:43
+   Price: 1.2036
+   TP: 1.2086
+   SL: 1.2006
+   Profit: 0.005
+   Success: True
+   Open: False
+
+Success: %50.0
+Profit: 106 pip
+Total execution time: 121 Sec.
