@@ -6,9 +6,9 @@ import _tkinter
 
 """Constants--------------------------------------------------------------------------------------------"""
 
-MY_USERNAME = 51667406
-MY_PASSWORD = "qu5R4W3JE"
-MY_BROKER = "Alpari-MT5-Demo"
+MY_USERNAME = "your username"
+MY_PASSWORD = "your pass"
+MY_BROKER = "your broker"
 
 SCREEN_WIDTH = 1280
 SCREEN_HEIGHT = 648
