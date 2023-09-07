@@ -4,4 +4,4 @@ it draws charts using tkinter turtle.
 
 tick charts:
 
-<img src="pics/1.JPG" width=50% height=auto> <img src="pics/2.JPG" width=50% height=auto> 
+<img src="pics/1.JPG" width=40% height=auto> <img src="pics/2.JPG" width=40% height=auto> 
